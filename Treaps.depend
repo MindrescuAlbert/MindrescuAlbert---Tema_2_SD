@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588276822 source:c:\users\albert\info\treaps\main.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+
